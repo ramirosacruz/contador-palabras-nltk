@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Intel Python specific files
+.intelpython/
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Sublime Text specific files
+*.sublime-project
+*.sublime-workspace
+
+# Python cache files
+*.cache
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db

@@ -1,0 +1,5 @@
+F:/Intel/oneAPI/intelpython/python3.9/python -m virtualenv venv
+source ./venv/Scripts/activate
+
+
+source F:/Intel/oneAPI/intelpython/python3.9/Scripts/activate
